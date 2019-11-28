@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapIntents</string>
+    <string name="search_display_text">Searching for %1$s</string>
+    <string name="enter_place_to_map">Enter place to map</string>
+    <string name="instructions">Enter place to map</string>
+    <string name="map_button_text">Map</string>
+</resources>
